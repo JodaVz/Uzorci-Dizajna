@@ -1,0 +1,24 @@
+C:\Users\Korisnik\Desktop\Uzorci dizajna\marvertus_zadaca_2\marvertus_zadaca_2\marvertus_zadaca_2\obj\Debug\marvertus_zadaca_2.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\Uzorci dizajna\marvertus_zadaca_2\marvertus_zadaca_2\marvertus_zadaca_2\bin\Debug\marvertus_zadaca_2.exe.config
+C:\Users\Korisnik\Desktop\Uzorci dizajna\marvertus_zadaca_2\marvertus_zadaca_2\marvertus_zadaca_2\bin\Debug\marvertus_zadaca_2.exe
+C:\Users\Korisnik\Desktop\Uzorci dizajna\marvertus_zadaca_2\marvertus_zadaca_2\marvertus_zadaca_2\bin\Debug\marvertus_zadaca_2.pdb
+C:\Users\Korisnik\Desktop\Uzorci dizajna\marvertus_zadaca_2\marvertus_zadaca_2\marvertus_zadaca_2\obj\Debug\marvertus_zadaca_2.exe
+C:\Users\Korisnik\Desktop\Uzorci dizajna\marvertus_zadaca_2\marvertus_zadaca_2\marvertus_zadaca_2\obj\Debug\marvertus_zadaca_2.pdb
+D:\marvertus_zadaca_2\marvertus_zadaca_2\bin\Debug\marvertus_zadaca_2.exe.config
+D:\marvertus_zadaca_2\marvertus_zadaca_2\bin\Debug\marvertus_zadaca_2.exe
+D:\marvertus_zadaca_2\marvertus_zadaca_2\bin\Debug\marvertus_zadaca_2.pdb
+D:\marvertus_zadaca_2\marvertus_zadaca_2\obj\Debug\marvertus_zadaca_2.csprojAssemblyReference.cache
+D:\marvertus_zadaca_2\marvertus_zadaca_2\obj\Debug\marvertus_zadaca_2.exe
+D:\marvertus_zadaca_2\marvertus_zadaca_2\obj\Debug\marvertus_zadaca_2.pdb
+C:\Users\Korisnik\Desktop\Uzorci dizajna\marvertus_zadaca_2\marvertus_zadaca_2\bin\Debug\marvertus_zadaca_2.exe.config
+C:\Users\Korisnik\Desktop\Uzorci dizajna\marvertus_zadaca_2\marvertus_zadaca_2\bin\Debug\marvertus_zadaca_2.exe
+C:\Users\Korisnik\Desktop\Uzorci dizajna\marvertus_zadaca_2\marvertus_zadaca_2\bin\Debug\marvertus_zadaca_2.pdb
+C:\Users\Korisnik\Desktop\Uzorci dizajna\marvertus_zadaca_2\marvertus_zadaca_2\obj\Debug\marvertus_zadaca_2.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\Uzorci dizajna\marvertus_zadaca_2\marvertus_zadaca_2\obj\Debug\marvertus_zadaca_2.exe
+C:\Users\Korisnik\Desktop\Uzorci dizajna\marvertus_zadaca_2\marvertus_zadaca_2\obj\Debug\marvertus_zadaca_2.pdb
+C:\Users\Korisnik\Desktop\marvertus_zadaca_2\marvertus_zadaca_2\bin\Debug\marvertus_zadaca_2.exe.config
+C:\Users\Korisnik\Desktop\marvertus_zadaca_2\marvertus_zadaca_2\bin\Debug\marvertus_zadaca_2.exe
+C:\Users\Korisnik\Desktop\marvertus_zadaca_2\marvertus_zadaca_2\bin\Debug\marvertus_zadaca_2.pdb
+C:\Users\Korisnik\Desktop\marvertus_zadaca_2\marvertus_zadaca_2\obj\Debug\marvertus_zadaca_2.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\marvertus_zadaca_2\marvertus_zadaca_2\obj\Debug\marvertus_zadaca_2.exe
+C:\Users\Korisnik\Desktop\marvertus_zadaca_2\marvertus_zadaca_2\obj\Debug\marvertus_zadaca_2.pdb

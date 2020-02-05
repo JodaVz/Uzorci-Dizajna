@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>-o "..\..\podaci\DZ_2_osobe.txt" -u "..\..\podaci\DZ_2_uloge.txt"  -t "..\..\podaci\DZ_2_tvkuca.txt" -e "..\..\podaci\DZ_2_emisije.txt" -v "..\..\podaci\DZ_2_vrste.txt"</StartArguments>
+  </PropertyGroup>
+</Project>
